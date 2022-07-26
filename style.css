@@ -1,0 +1,38 @@
+body{
+    background-size: cover;
+    
+}
+.heading{
+    width: 100%;
+    font-size: 19px;
+    margin-top: 0px;
+}
+.note{
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.74);
+}
+.div_speed_img{
+    width: 150px;
+    margin: 10px;
+}
+.div_volume_img{
+    width: 150px;
+    margin:10px;
+}
+.speed{
+    float: left;
+}
+.volume{
+    float: right;
+}
+.play_button{
+    font-size: 15px;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+}
+canvas{
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 0px;
+}
